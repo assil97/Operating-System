@@ -18,7 +18,7 @@ In this repo we are implementing few of the concepts which are being used in Ope
 
 Please refer to the Process Schedling System folder to access all these folders each explaining about it's unique functions in the operating System while scheduling.
 
-##Memory Management
+## Memory Management
 
     1.Paging 
     2.Segmentation
