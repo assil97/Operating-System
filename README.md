@@ -9,7 +9,7 @@ In this repo we are implementing few of the concepts which are being used in Ope
     1.Process Scheduling System
     2.Memory Management System
 
-### Process Scheduling System
+## Process Scheduling System
 
     1.First Come First Serve
     2.Scheduled Job First
