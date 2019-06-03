@@ -16,4 +16,4 @@ In this repo we are implementing few of the concepts which are being used in Ope
     3.Priorty Scheduling
     4.Round Robin Sceduling
 
-Please refer to the Process Schedling System
+    Please refer to the Process Schedling System folder to access all these folders each explaining about it's unique functions in the operating System while scheduling.
